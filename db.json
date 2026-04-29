@@ -1,26 +1,28 @@
-[
-  {
-    "id": "1",
-    "title": "왕과 사는 남자",
-    "director": "장항준",
-    "casting": ["박지훈", "유해진"],
-    "genres": ["드라마"],
-    "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXN04N7UQdomFNTTn8trQTj_5WtztTx257BQ4mMdi8yf4GmJxmemjlNcsQqWFSTEUjRj_WQj7WEnmnKPDcYbqqLVbAFu7S1wNYJuXsazewnimiXtG3udlWifCwf-cq3f3y5PVgtxLscaIonEEGyOVC4U.webp"
-  },
-  {
-    "id": "2",
-    "title": "살목지",
-    "director": "이상민",
-    "casting": ["김남길", "박성웅"],
-    "genres": ["공포"],
-    "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXNsbGmS7iSzE-b7ZyjGM-FpEKxMn37WxALfa60wjrC6O0yljVEvmFB-Xd-_kJpXzIDWw9ldcpqFNjjZIsMVg7AWgBNo-keIn66HBTGSIeXydoSQbdOSR1K10RB65sGuWx0g4X1F66zVrqUE1stueJ5M.webp"
-  },
-  {
-    "id": "3",
-    "title": "프로젝트 헤일메리",
-    "director": ["필 로드", "크리스 밀러"],
-    "casting": ["라이언 고슬링"],
-    "genres": ["SF", "드라마", "모험"],
-    "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXGhVt_TL4HbOtW-bVAbiiADbPeJF2Gse84br1_YqZvV7RTKTmDolnRDlF9fDbb6YTxhp0gglePmBu2RrxadMS8g-HFXa8xqsE5Gt-1RlVudTYE0WmVdyXRNG2bgFxz4op999olP6hLfdUcFxppQtZh0.webp"
-  }
-]
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "왕과 사는 남자",
+      "director": "장항준",
+      "casting": ["박지훈", "유해진"],
+      "genres": ["드라마"],
+      "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXN04N7UQdomFNTTn8trQTj_5WtztTx257BQ4mMdi8yf4GmJxmemjlNcsQqWFSTEUjRj_WQj7WEnmnKPDcYbqqLVbAFu7S1wNYJuXsazewnimiXtG3udlWifCwf-cq3f3y5PVgtxLscaIonEEGyOVC4U.webp"
+    },
+    {
+      "id": "2",
+      "title": "살목지",
+      "director": "이상민",
+      "casting": ["김남길", "박성웅"],
+      "genres": ["공포"],
+      "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXNsbGmS7iSzE-b7ZyjGM-FpEKxMn37WxALfa60wjrC6O0yljVEvmFB-Xd-_kJpXzIDWw9ldcpqFNjjZIsMVg7AWgBNo-keIn66HBTGSIeXydoSQbdOSR1K10RB65sGuWx0g4X1F66zVrqUE1stueJ5M.webp"
+    },
+    {
+      "id": "3",
+      "title": "프로젝트 헤일메리",
+      "director": ["필 로드", "크리스 밀러"],
+      "casting": ["라이언 고슬링"],
+      "genres": ["SF", "드라마", "모험"],
+      "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXGhVt_TL4HbOtW-bVAbiiADbPeJF2Gse84br1_YqZvV7RTKTmDolnRDlF9fDbb6YTxhp0gglePmBu2RrxadMS8g-HFXa8xqsE5Gt-1RlVudTYE0WmVdyXRNG2bgFxz4op999olP6hLfdUcFxppQtZh0.webp"
+    }
+  ]
+}
