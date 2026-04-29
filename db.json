@@ -10,11 +10,11 @@
     },
     {
       "id": "2",
-      "title": "살목지",
-      "director": "이상민",
-      "casting": ["김남길", "박성웅"],
-      "genres": ["공포"],
-      "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXNsbGmS7iSzE-b7ZyjGM-FpEKxMn37WxALfa60wjrC6O0yljVEvmFB-Xd-_kJpXzIDWw9ldcpqFNjjZIsMVg7AWgBNo-keIn66HBTGSIeXydoSQbdOSR1K10RB65sGuWx0g4X1F66zVrqUE1stueJ5M.webp"
+      "title": "악마는 프라다를 입는다",
+      "director": "데이비드 프랭클",
+      "casting": ["메릴 스트립", "앤 해서웨이"],
+      "genres": ["드라마", "코미디"],
+      "poster": "https://i.namu.wiki/i/CpfUhws3t59nF8TDyCK4B6YTPy4gQjBdrrsKvqZBOiLAuPNUc_X2kjK0XjLYoOWkQcso7oE_KNtRWip4p-30Mkp1-RTO_zV1pb7O25I7hhzVQ_PeBC6AMwDPZl_stwrryY5fkzTB87NUUuoAhyHE_w.webp"
     },
     {
       "id": "3",
@@ -23,6 +23,14 @@
       "casting": ["라이언 고슬링"],
       "genres": ["SF", "드라마", "모험"],
       "poster": "https://i.namu.wiki/i/SviP409f3HKKDPD6d6DHXGhVt_TL4HbOtW-bVAbiiADbPeJF2Gse84br1_YqZvV7RTKTmDolnRDlF9fDbb6YTxhp0gglePmBu2RrxadMS8g-HFXa8xqsE5Gt-1RlVudTYE0WmVdyXRNG2bgFxz4op999olP6hLfdUcFxppQtZh0.webp"
+    },
+    {
+      "id": "4",
+      "title": "비포 선라이즈",
+      "director": ["리처드 링클레이터"],
+      "casting": ["에단 호크", "줄리 델피"],
+      "genres": ["로맨스", "드라마"],
+      "poster": "https://i.namu.wiki/i/CAQfTi9wnhewYZJVcsHGy2eg-yzGP0AWMkTH2QjoYq3Vpd7hdfsaObmXXbiJQD_EJURIGR4D_o9A0ox5VbAeZWWcaN28l-lh6Q1yIiyD1o3BP7FpzbO9cl3_RgGInfk0d_HAtJsQqc3wGS_u06ScIg.webp"
     }
   ]
 }
